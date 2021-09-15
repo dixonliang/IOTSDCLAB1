@@ -8,6 +8,7 @@
 
 This repo contains the files for Lab 1 of the IoT course, CS-437 as part of the Masters in Computer Science program at UIUC. The objective of Lab 1 was to create and program an autonomous car. The car has the ability of basic obstacle avoidance, mapping/navigation, and image detection. A full lab write up is included in this repo as is a video demo. 
 
+![alt text](https://github.com/dixonliang/IOTSDCLAB1/blob/main/step1_picture.jpeg)
 
 ### Directory
 
