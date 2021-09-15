@@ -1,6 +1,7 @@
 # Self-Driving Toy Car (Internet of Things, CS-437 University of Illinois at Urbana Champaign)
 
 **Video Demo: https://youtu.be/t4X64sTeJ_0**
+
 **Lab Report: IoT_Lab1_SDC.pdf**
 
 ### Overview
