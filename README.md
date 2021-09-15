@@ -2,7 +2,7 @@
 
 **Video Demo: https://youtu.be/t4X64sTeJ_0**
 
-**Lab Report: IoT_Lab1_SDC.pdf**
+[**Lab Report: IoT_Lab1_SDC.pdf**](https://github.com/dixonliang/IOTSDCLAB1/blob/main/IoT_Lab1_SDC.pdf)
 
 ### Overview
 
